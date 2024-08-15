@@ -18,7 +18,7 @@ classDiagram
         +atualizarPagina()
     }
 
-    class Iphone{
+    class iPhone{
 
     }
 
